@@ -1,9 +1,7 @@
 @font-face {
-  font-family: 'icomoon';
+  font-family: 'normal';
   src:  url('../fonts/LTWave-Light.ttf');
   src:  url('../fonts/LTWave-Light.ttf') format('truetype'),
-    url('../fonts/LTWave-Light.ttf') format('truetype'),
-    url('../fonts/LTWave-Light.ttf') format('truetype'),
     url('../fonts/LTWave-Light.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
@@ -16,7 +14,7 @@ html {
 body {
   font-family: "LTWave", LTWave-Light;
   line-height: 1.8;
-  font-size: 16px;
+  font-size: 20px;
   background: #fff;
   color: #727271; }
 
@@ -33,7 +31,7 @@ h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   line-height: 1.45;
   font-weight: normal;
-  color: rgb(104, 68, 95); }
+  color: #00153F; }
 
 .text-primary {
   color: #00153F !important; }
